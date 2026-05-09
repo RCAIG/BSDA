@@ -1,6 +1,6 @@
-# DDA: Multi-Agent Disaster Damage Assessment
+# Multi-Agent Disaster Damage Assessment
 
-DDA is a multi-agent pipeline for disaster damage assessment from paired pre-disaster and post-disaster visual observations. The system combines visual perception, damage change detection, severity assessment, critic-driven revision, retrieval-augmented generation, and optional web search to produce structured damage analysis outputs.
+This is a multi-agent pipeline for disaster damage assessment from paired pre-disaster and post-disaster visual observations. The system combines visual perception, damage change detection, severity assessment, critic-driven revision, retrieval-augmented generation, and optional web search to produce structured damage analysis outputs.
 
 The project is designed around modular agents so that each stage can be developed, tested, and replaced independently.
 
