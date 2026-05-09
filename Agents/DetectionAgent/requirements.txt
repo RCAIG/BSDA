@@ -1,0 +1,8 @@
+transformers>=4.40.0
+torch
+sentence-transformers>=2.2.0
+numpy
+# On Windows, FAISS is often easier to install with conda:
+#   conda install -c conda-forge faiss-cpu
+faiss-cpu; platform_system != "Windows"
+
