@@ -15,16 +15,6 @@ The pipeline follows four main stages:
 
 The orchestration layer can run these stages as a graph-based workflow and supports iterative revision through critic feedback.
 
-## Key Features
-
-- Multi-agent architecture for modular disaster damage assessment.
-- Support for paired pre/post scene analysis.
-- Structured JSON-oriented outputs for downstream evaluation.
-- Retrieval-augmented reasoning for detection, assessment, and critique.
-- RAG with optional web search fallback.
-- Tool registry and ReAct-style tool execution loop.
-- LangGraph-based orchestration for revision workflows.
-- Configurable local model paths and data paths.
 
 ## Repository Structure
 
